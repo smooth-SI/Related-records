@@ -1,1 +1,1 @@
-# Related-records
+# 関連レコードに関するコード
